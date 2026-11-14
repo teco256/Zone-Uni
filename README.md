@@ -1,4 +1,4 @@
-# **Per request of RecZone management i removed the deobfuscated client code.**
+**Per request of RecZone management i removed the deobfuscated client code.**
 # Zone-Uni
 
 Reverse-engineering the RecZone (rec.zone) web client to understand how its API and multiplayer protocol work, with the goal of building a compatible API server.
