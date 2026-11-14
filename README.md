@@ -1,4 +1,5 @@
-**Per request of RecZone management i removed the deobfuscated client code.**
+# ZONE-UNI HAS MOVED: https://github.com/TheVfabian/BetterZone
+**Zone-Uni has been merged with BetterZone a much more ambitious project**
 # Zone-Uni
 
 Reverse-engineering the RecZone (rec.zone) web client to understand how its API and multiplayer protocol work, with the goal of building a compatible API server.
